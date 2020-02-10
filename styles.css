@@ -1,0 +1,47 @@
+* {
+    
+    padding: 0px;
+}
+body {
+    height: 100%;
+    width: 100%;
+}
+#div1{
+    background-color: black;
+    width: 50%;
+    height: 100%;
+    float:right;
+}
+p{
+    font-weight: bold;
+    font-size: large; 
+}
+body {
+    height: 100%;
+}
+h1{
+    color:red;
+    font-family: Arial;
+    font-size: 28px;
+    background-position: inherit;
+    text-transform: uppercase;
+}
+img{
+    height: 150px;
+    width: 200px;
+    padding: 30px;
+    float: left;
+}
+p img{
+    height: 150px;
+    width: 200px;
+    padding: 10px;
+    float: right;
+}
+#div2{
+    width: 50%;
+    height: 100%;
+    background-color: yellow;
+background-size: cover;
+ 
+}
